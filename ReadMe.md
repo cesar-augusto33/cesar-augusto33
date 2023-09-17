@@ -7,8 +7,8 @@
 Systems Analysis and Development student<br>Programming student<br>I’m currently learning<br>
 
 <div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=cesar-augusto33&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-augusto33&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="180cm" width="400cm" src="https://github-readme-stats.vercel.app/api?username=cesar-augusto33&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180cm" width="450cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-augusto33&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 ---
