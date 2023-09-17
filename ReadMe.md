@@ -6,7 +6,7 @@
 
 Systems Analysis and Development student<br>Programming student<br>I’m currently learning<br>
 
-![](https://github-readme-stats.vercel.app/api?username=cesar-augusto33&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=cesar-augusto33&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-augusto33&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
